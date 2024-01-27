@@ -40,7 +40,7 @@ Currently spending time learning Java, Algorithms and Big O notation.
 ― Oscar Wilde
 
 
-## Tanks for stopping bye! 🥳
+## Thanks for stopping bye! 🥳
 
 <p align="center"> 
   Completely Inaccurate Visitor Count<br>
