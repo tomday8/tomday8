@@ -1,11 +1,11 @@
 # Hi there, I'm Tom Day 👋
 
-I'm learning to be a software engineer via an apprenticeship with [Makers Academy](https://makers.tech). Currently on placement as a Software Developer on an infrastructure team focused on [Apache Kafka](https://kafka.apache.org).
+I'm a Software Engineer currently on placement with an infrastructure team focused on [Apache Kafka](https://kafka.apache.org). I've recently graduated with a Level 4 Certification (with Distinction) via an apprenticeship with [Makers Academy](https://makers.tech).
 
 
 ## 🔧 Technologies & Tools
 
-These are some of the technologies I have used, experience levels vary and this list is by no means exhaustive.
+These are some of the technologies I've used, experience levels vary and this list is by no means exhaustive.
 
 ![Static Badge](https://img.shields.io/badge/Cucumber-%2323D96C?style=flat&logo=cucumber&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?style=flat&logo=cypress&logoColor=white)
@@ -26,7 +26,13 @@ These are some of the technologies I have used, experience levels vary and this 
 
 ## 🌱 Currently Learning
 
-Currently spending time learning Java, Algorithms and Big O notation.
+Currently spending time learning Java, Typescript and Algorithms.
+
+## 📖 Currently Reading
+
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) by Aditya Y. Bhargava
+- [The Secret Life of Programs](https://nostarch.com/foundationsofcomp) by Jonathan E. Steinhart
+- [Algorithms to Live By](https://algorithmstoliveby.com) by Brian Christian and Tom Griffiths
 
 ## 📊 GitHub Stats
 
@@ -34,7 +40,7 @@ Currently spending time learning Java, Algorithms and Big O notation.
 
 ## 🎉 Fun Facts
 
-- Hobbies: Family, Coding, Lego, Nintendo
+- Hobbies: Family, Reading, Coding, Lego, Nintendo
 
 - [Random Quote](https://writerbuddy.ai/random-generator/random-quote-generator): "To live is the rarest thing in the world. Most people exist, that is all."
 ― Oscar Wilde
