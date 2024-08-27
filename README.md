@@ -15,6 +15,7 @@ These are some of the technologies I've used, experience levels vary and this li
 ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=flat&logo=go&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Gradle-%2302303A?style=flat&logo=gradle&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat&logo=intellijidea)
+![Static Badge](https://img.shields.io/badge/Java-%23000000?style=flat&logo=openjdk)
 ![Static Badge](https://img.shields.io/badge/JUnit5-%2325A162?style=flat&logo=junit5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kafka-%23231F20?style=flat&logo=apachekafka)
 ![Static Badge](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)
